@@ -1,6 +1,5 @@
 import numpy as np
-
-class LogisticRegression:
+class LogisticRegression ():
 
     # defining parameters such as learning rate, number ot iterations, whether to include intercept,
     # and verbose which says whether to print anything or not like, loss etc.
